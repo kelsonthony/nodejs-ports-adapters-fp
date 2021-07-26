@@ -96,3 +96,7 @@ Prefer using this way over local import (`../../`).
 ## License
 
 MIT
+
+## Tests
+
+yarn test:watch
